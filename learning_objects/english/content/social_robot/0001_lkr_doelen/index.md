@@ -31,35 +31,37 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Doelen
+# Goals
 
-## Een sociale robot...
+## A social robot...
 
-Sociale robots zijn robots die specifiek ontworpen zijn om te communiceren met mensen en deel te nemen aan sociale interacties. Het uiteindelijke doel is een sociale robot te creëren waarbij de interactie tussen mens en machine zo natuurlijk mogelijk is.
+Social robots are robots specifically designed to communicate with humans and participate in social interactions. The ultimate goal is to create a social robot where the interaction between human and machine is as natural as possible.
 
-Bij het ontwerpen van een sociale robot is het belangrijk om niet alleen te focussen op de efficiëntie van de robot in het uitvoeren van zijn taken, maar ook op de sociale en emotionele aspecten van de interactie tussen de robot en de mens. Dit vereist kennis van verschillende domeinen zoals techniek, menselijk gedrag en vormgeving. Sociale robotica vereist dus een interdisciplinaire aanpak vanwege de complexe interactie tussen de robot, zijn omgeving en de mensen die ermee in contact komen. 
+When designing a social robot, it is important not only to focus on the efficiency of the robot in performing its tasks, but also on the social and emotional aspects of the interaction between the robot and humans. This requires knowledge of various domains such as technology, human behavior, and design. Social robotics, therefore, requires an interdisciplinary approach due to the complex interaction between the robot, its environment, and the people who come into contact with it.
 
-![](embed/sr_interdisciplinair.png "interdisciplinair domein")
-
-
-### Ontwerpen
-
-De leerlingen krijgen volledige controle over het ontwerp van hun sociale robot. Zij zijn de architecten van hun eigen creatie en hebben de mogelijkheid om hun unieke visie en persoonlijke stijl tot uiting te brengen in het ontwerp. Dit stelt hen in staat om hun technische en creatieve vaardigheden te ontplooien en een gevoel van trots te ontwikkelen bij het bouwen van een robot die volledig op hun eigen ideeën en inzichten gebaseerd is.
-
-Met behulp van herbruikbare materialen, knutselmateriaal en elektronische componenten, hebben de leerlingen de mogelijkheid om hun robot uit het niets op te bouwen. Door deze aanpak kunnen ze niet alleen hun technische vaardigheden ontwikkelen, maar ook hun creatieve en probleemoplossende vaardigheden aanscherpen. 
+![](embed/sr_interdisciplinair.png "interdisciplinary domain")
 
 
-### Programmeren
+"The students have full control over the design of their social robot. They are the architects of their own creation and have the opportunity to express their unique vision and personal style in the design. This allows them to develop their technical and creative skills and a sense of pride in building a robot that is fully based on their own ideas and insights.
 
-Om leerlingen op een toegankelijke manier kennis te laten maken met de principes van programmeren, maken ze gebruik van de Dwengo-simulator in dit project. Deze simulator is ontworpen voor beginners die op zoek zijn naar een eerste (grafische, dus blokgebaseerde) programmeerervaring. Deze basis kan hen in de toekomst helpen bij de overgang naar tekstuele programmeertalen.
+Using reusable materials, crafting supplies, and electronic components, the students have the opportunity to build their robot from scratch. Through this approach, they can not only develop their technical skills but also hone their creative and problem-solving abilities."
 
-Bij het programmeren van de sociale robot wordt het computationeel denken van de leerlingen aangescherpt en krijgen ze inzicht in hoe de robot functioneert en reageert op de omgeving. Door het schrijven van code en het testen van de functionaliteit van de robot kunnen ze o.a. hun probleemoplossende vaardigheden verbeteren.
+### Designing
 
+The students have complete control over the design of their social robot. They are the architects of their own creation and have the opportunity to express their unique vision and personal style in the design. This enables them to develop their technical and creative skills and a sense of pride in building a robot based entirely on their own ideas and insights.
 
-### Bouwen
+Using reusable materials, craft supplies, and electronic components, the students have the opportunity to build their robot from scratch. This approach not only allows them to develop their technical skills but also sharpens their creative and problem-solving skills.
 
-Als laatste onderdeel van het project dienen de leerlingen hun virtuele robot om te zetten naar de fysieke realiteit.
+### Programming
 
-De leerlingen krijgen herbruikbaar materiaal en een microcontrollerplatform ter beschikking om hun robot te bouwen. Ze moeten nadenken over de materialen die ze willen gebruiken en hoe ze deze materialen kunnen combineren om de robot te construeren. Hierbij is het ook belangrijk dat ze rekening houden met de functionaliteit en het ontwerp van de robot die ze hebben bedacht in de vorige modules.
+To introduce students to the principles of programming in an accessible way, this project uses the Dwengo simulator. This simulator is designed for beginners who are looking for their first (graphical, block-based) programming experience. This foundation can help them transition to textual programming languages in the future.
 
-Het bouwproces biedt een breed gamma aan mogelijkheden waarvoor tal van vaardigheden nodig zijn. Het is dan ook een ideale gelegenheid om de vakken techniek en beeld te integreren in het project.
+When programming the social robot, students refine their computational thinking skills and gain insight into how the robot functions and responds to the environment. By writing code and testing the functionality of the robot, they can improve their problem-solving skills, among other things.
+
+### Building
+
+As the final component of the project, the students are required to convert their virtual robot into physical reality.
+
+The students are provided with reusable materials and a microcontroller platform to build their robot. They must consider the materials they want to use and how they can combine these materials to construct the robot. It is also important for them to consider the functionality and design of the robot they have conceived in the previous modules.
+
+The building process offers a wide range of possibilities that require a variety of skills. It is therefore an ideal opportunity to integrate the subjects of technology and art into the project.
