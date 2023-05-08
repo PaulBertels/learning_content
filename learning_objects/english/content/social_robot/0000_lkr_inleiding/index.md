@@ -30,10 +30,10 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Het 'Sociale Robot'-project
+# The 'Social Robot' Project
 
-'Sociale Robot' is een fantastische manier om jonge leerlingen enthousiast te maken voor STEM. Het stelt leerlingen in staat om hun creativiteit te ontwikkelen en technische vaardigheden te verwerven door het ontwerpen, programmeren en bouwen van hun eigen sociale robot. Bovendien sluit dit project aan bij actueel wetenschappelijk onderzoek naar het verbeteren van de interactie tussen mens en robot en de mogelijkheden die sociale robots bieden om bij te dragen aan verschillende maatschappelijke uitdagingen. 
+'Social Robot' is a fantastic way to get young students excited about STEM. It allows students to develop their creativity and acquire technical skills by designing, programming, and building their own social robot. Moreover, this project aligns with current scientific research on improving the interaction between humans and robots and the potential that social robots offer in addressing various societal challenges.
 
-Het is een vakoverstijgend STEM-project voor leerlingen van de eerste of tweede graad secundair onderwijs, rekening houdend met de eindtermen en minimumdoelen van het Vlaamse onderwijs.
+It is an interdisciplinary STEM project for first or second-grade secondary education students, taking into account the end terms and minimum goals of Flemish education.
 
-![](@youtube/https://www.youtube.com/embed/EsYs4k41U6w?list=PLHRY06NDfDXlBpLm5J3BK26Ul6GxGykDu "Introductie Sociale Robot")
+![](@youtube/https://www.youtube.com/embed/EsYs4k41U6w?list=PLHRY06NDfDXlBpLm5J3BK26Ul6GxGykDu "Introduction to Social Robot")
